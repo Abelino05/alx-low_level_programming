@@ -1,6 +1,5 @@
 /**
- * Hello_puts - Prints Programming is like building a multilingual puzzle
- * @main: Uses puts function
+ * main - Prints Programming is like building a multilingual puzzle
  *
  * Return: 0 if there is no warning
  */
