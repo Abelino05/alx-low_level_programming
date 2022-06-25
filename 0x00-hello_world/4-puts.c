@@ -1,11 +1,12 @@
 /**
- * This function prints a text and return 0 at the end
+ * Hello_puts - Prints Programming is like building a multilingual puzzle
+ * Return 0
  */
 #include <stdio.h>
 
-int main(void)/*My entry point*/
+int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");/*Puts function*/
-	return (0);/*return 0*/
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
 
