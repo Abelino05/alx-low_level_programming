@@ -1,8 +1,8 @@
 /**
  * Hello_puts - Prints Programming is like building a multilingual puzzle
- * Uses puts function
+ * @main: Uses puts function
  *
- * Return 0
+ * Return: 0 if there is no warning
  */
 #include <stdio.h>
 
