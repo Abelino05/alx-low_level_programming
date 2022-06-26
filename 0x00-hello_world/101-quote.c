@@ -1,5 +1,6 @@
 /**
- * main - Prints excatly and that piece of art is usefuland that piece of art is useful - Dora Korpar, 2015-10-19
+ * main - Prints excatly and that piece of art is usefuland that piece of art is useful
+ * Dora Korpar, 2015-10-19
  *
  * Return: 0 at the end
  */
