@@ -11,7 +11,7 @@ int main(void)
 
 	for (i = 0; i < 10; i++)
 	{
-		putchar(i+'0');/*Convert in char*/
+		putchar(i + '0');/*Convert in char*/
 	}
 	putchar('\n');
 	return (0);
