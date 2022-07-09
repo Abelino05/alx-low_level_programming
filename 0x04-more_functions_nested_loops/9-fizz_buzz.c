@@ -1,7 +1,5 @@
 #include "main.h"
 
-#include <stdio.h>
-
 /**
  * fizz_buzz - prints fizz buzz depending on conditions
  * Return: 0
