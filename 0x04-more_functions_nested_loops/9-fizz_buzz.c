@@ -1,11 +1,13 @@
+#include "main.h"
+
 #include <stdio.h>
 
 /**
- * main - Fizzbuzz function
+ * fizz_buzz - prints fizz buzz depending on conditions
  * Return: 0
  */
 
-int main(void)
+void fizz_buzz(void)
 {
 	int i;
 
