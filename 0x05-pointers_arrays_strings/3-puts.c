@@ -1,6 +1,6 @@
 #include "main.h"
 
-#include <string>
+#include <string.h>
 
 /**
  * _puts - Prints the string on the stdout
