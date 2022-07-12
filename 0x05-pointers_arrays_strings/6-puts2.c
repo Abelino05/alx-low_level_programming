@@ -2,7 +2,8 @@
 
 #include <string.h>
 
-/**puts2 - Prints any other character
+/**
+ * puts2 - Prints any other character
  * @str: String to print
  */
 
