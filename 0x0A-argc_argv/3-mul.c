@@ -22,7 +22,7 @@ int main(int argc, char *argv[])
 
 	result = 1;
 
-	if (argc != 3)
+	if (argc < 3)
 	{
 		printf("Error\n");
 		return (1);
@@ -30,7 +30,7 @@ int main(int argc, char *argv[])
 	for (i = 1; i < argc; i++)
 	{
 		result = result * atoi(argv[i]);
-		printf("%d\n", result);
-		return (0);
 	}
+	printf("%d\n", result);
+	return (0);
 }
